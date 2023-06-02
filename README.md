@@ -22,7 +22,7 @@ execute em seu prompt: ngrok {porta}.
 
 3º
 
-Crie as pasta necesarias para compartilhamento. 
+Crie as pasta necessarias para compartilhamento. 
 
 
 
