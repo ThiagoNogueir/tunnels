@@ -1,7 +1,7 @@
 # tunnels
 
 Essa aplicação tem o intuito de fornecer uma maneira rapida de criação de um servidor http utlizando seu Localhost para transferencias de arquivos ou download
-**Utlizamos o serviço ngrok para facilitar a criação de tuneis**
+, utlizamos o serviço ngrok para facilitar a criação de tuneis.
 
 Aviso:
 
@@ -14,15 +14,15 @@ Etapas:
 
 1°
 
-Execute o install_server.bat
+Execute o install_server.bat.
 
 2º
 
-execute em seu prompt: ngrok {porta} 
+execute em seu prompt: ngrok {porta}.
 
 3º
 
-Crie as pasta necesarias para compartilhamento 
+Crie as pasta necesarias para compartilhamento. 
 
 
 
