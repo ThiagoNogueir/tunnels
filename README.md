@@ -7,6 +7,8 @@ Aviso:
 
 o arquivo .bat contém a instalação direta do python a seus dependencias para realização do servidor http, cao já tenha o python instalado ignore erros. 
 
+Crie seu Token em:
+https://ngrok.com/
 
 Etapas:
 
@@ -23,5 +25,4 @@ execute em seu prompt: ngrok {porta}
 Crie as pasta necesarias para compartilhamento 
 
 
-NGROK:
-https://ngrok.com/
+
