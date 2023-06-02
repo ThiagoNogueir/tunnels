@@ -3,6 +3,11 @@
 Essa aplicação tem o intuito de fornecer uma maneira rapida de criação de um servidor http utlizando seu Localhost para transferencias de arquivos ou download
 **Utlizamos o serviço ngrok para facilitar a criação de tuneis**
 
+Aviso:
+
+o arquivo .bat contém a instalação direta do python a seus dependencias para realização do servidor http, cao já tenha o python instalado ignore erros. 
+
+
 Etapas:
 
 1°
