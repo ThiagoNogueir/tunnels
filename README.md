@@ -18,7 +18,7 @@ Execute o install_server.bat.
 
 2º
 
-execute em seu prompt: ngrok {porta}.
+execute em seu prompt: ngrok http {porta}.
 
 3º
 
