@@ -5,7 +5,7 @@ Essa aplicação tem o intuito de fornecer uma maneira rapida de criação de um
 
 Aviso:
 
-o arquivo .bat contém a instalação direta do python a seus dependencias para realização do servidor http, caso já tenha o python instalado ignore erros. 
+o arquivo .bat contém a instalação direta do python a suas dependencias para realização do servidor http, caso já tenha o python instalado ignore erros. 
 
 Crie seu Token em:
 https://ngrok.com/
